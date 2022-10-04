@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG1606BRUZ
+D ADG1606BRUZ
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1606_1607.pdf
+$ENDCMP
+#
+$CMP Adafruit_Itsy_Bitsy_M0
+D 32-bit microcontroller module with WiFi
+K ESP8266 WiFi microcontroller
+F https://www.adafruit.com/product/2471
+$ENDCMP
+#
+#End Doc Library
