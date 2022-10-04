@@ -28,3 +28,4 @@ SOURC1:VOLT:LEV? # this query returns the DAC level
 
 *IDN? # returns valid commands and this URL
 
+The tinyusb_usbtmc files are modifications of https://github.com/hathach/tinyusb source files. 
