@@ -10,6 +10,8 @@ The ItsyBitsy M0 Express board was selected as (1) I am very familar with the sa
 
 **Welcome to the fricken future people...** drag-n-drop the kicad_pcb file to order the board, and drag-n-drop the uf2 file to program the MCU! Sorry, nothing I can do about the soldering.
 
+Mux outputs are on the 1757268 connector, which is a Phoenix Contact connector. This connector can be omitted and posts can be put in the holes.
+
 Dual channel opamp and muxes working great, but the level-shifter schematic is incorrect (don't populate the NVT2008 part). The NVT2008 needs to have high value resistors connect to the VREFB and EN inputs (unlike the TI TXS01018E).
 
 What am I planning to do with this board? I need to connect two Keithley 2460 SMUs to my ASIC board to support bench trimming. I thought this would be a cool new lab instrument. The VDD PIN can be driven by the USB's 5V or externally up to 16V (mux inputs should be less than VDD).
