@@ -1,6 +1,8 @@
 # mux_board_v1
 Custom PCB with ItsyBitsy M0 Express controlling **FOUR ADG1606BRUZ 16 input muxes!**
 
+**--> UPDATED design available: [mux_board_v5](https://github.com/charkster/mux_board_v5) <--**
+
 ![picture](https://github.com/charkster/mux_board_v1/blob/main/mux_board_v1.png)
 
 Check-out my **PDF** [schematic](https://github.com/charkster/mux_board_v1/blob/main/kicad/mux_board_v1_sch_plot.pdf) !!
